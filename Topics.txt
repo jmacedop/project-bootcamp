@@ -1,0 +1,9 @@
+Nombre Proyecto: PelisLove
+Publico Objetivo: Cinéfilos
+Lista de funcionalidades: 
+	-Ver todas las películas por año
+	-Ver películas por genero
+	-Ver películas por actor
+	-Ver películas con mejor rating de critica
+	-Seleccionar películas favoritas y tener un playlist
+	-Comentar y calificar peliculas
